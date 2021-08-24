@@ -20,7 +20,7 @@ To get list of all municipalities of Nepal
 ```python
 from src.nepali_municipalities import NepalMunicipality
 
-print(NepalMunicipality('Kathmandu').all_municipalities())
+NepalMunicipality('Kathmandu').all_municipalities()
 # ['Kathmandu', 'Kageshwori Manohara', 'Kirtipur', 'Gokarneshwor', 'Chandragiri', 'Tokha', 'Tarkeshwor', 'Dakchinkali', 'Nagarjun', 'Budhanilkantha', 'Shankharapur']
 
 ```
@@ -28,7 +28,7 @@ print(NepalMunicipality('Kathmandu').all_municipalities())
 
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Please make sure to update tests as appropriate.
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
