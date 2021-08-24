@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: nepali-municipalities
-Version: 1.0.0
+Version: 0.0.1
 Summary: Nepali  municipalities is a python package to get data about Nepali municipalities based on districts 
-Home-page: https://github.com/shuds13/pyexample
+Home-page: https://github.com/nawarazpokhrel/Nepali-Municipalites
 Author: Navaraj Pokharel
 Author-email: navarajpokharel@outlook.com
 License: BSD 2-clause

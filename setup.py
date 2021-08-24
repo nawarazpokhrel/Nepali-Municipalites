@@ -9,7 +9,7 @@ setup(
     name='nepali-municipalities',
     version='1.0.0',  # Required
     description='Nepali  municipalities is a python package to get data about Nepali municipalities based on districts ',
-    url='https://github.com/shuds13/pyexample',
+    url='https://github.com/nawarazpokhrel/Nepali-Municipalites',
     long_description=long_description,
     long_description_content_type="text/markdown",
     author='Navaraj Pokharel',
