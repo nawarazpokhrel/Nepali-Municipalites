@@ -6,4 +6,4 @@ nepali_municipalities.egg-info/SOURCES.txt
 nepali_municipalities.egg-info/dependency_links.txt
 nepali_municipalities.egg-info/top_level.txt
 src/__init__.py
-src/nepali_municipalities.py
+src/municipalities_nepal.py
