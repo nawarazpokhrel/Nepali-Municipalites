@@ -11,19 +11,7 @@ To get list of all districts of Nepal
 from src.nepali_municipalities import NepalMunicipality
 
 NepalMunicipality().all_districts()
-# ['Bhojpur', 'Dhankuta', 'Ilam', 'Jhapa', 'Khotang', 'Morang', 
-# 'Okhaldhunga', 'Panchthar', 'Sankhuwasabha', 'Solukhumbu', 
-# 'Sunsari', 'TapleJung', 'Terhathum', 'Udayapur', 'Bara', 
-# 'Dhanusha', 'Mahottari', 'Parsa', 'Rautahat', 'Saptari', 'Sarlahi', 'Siraha', 'Bhaktapur', 'Chitwan', 'Dhading', 'Dolakha', 'Kavrepalanchowk', 'Kathmandu', 'Lalitpur', 'Makwanpur', 'Nuwakot', 'Ramechhap', 
-# 'Rasuwa', 'Sindhuli', 'Sindhupalchowk', 'Baglung', 'Gorkha', 
-# 'Kaski', 'Lamjung', 'Manang', 'Mustang', 'Myagdi', 
-# 'Nawalparasi (State 4)', 'Parbat', 'Syangja', 'Tanahun', 
-# 'Arghakhanchi', 'Banke', 'Bardiya', 'Dang', 'Gulmi', 
-# 'Kapilvastu', 'Nawalparasi West', 'Palpa', 'Pyuthan', 'Rolpa', 
-# 'Rukum (State 5)', 'Rupandehi', 'Dailekh', 'Dolpa', 'Humla', 
-# 'Jajarkot', 'Jumla', 'Kalikot', 'Mugu', 'Western Rukum', 'Salyan', 
-# 'Surkhet', 'Aachham', 'Baitadi', 'Bajhang', 'Bajura', 'Dadeldhura', 
-# 'Darchula', 'Doti', 'Kailali', 'Kanchanpur']
+# ['Bhojpur', 'Dhankuta', 'Ilam', 'Jhapa', 'Khotang', 'Morang', .... ]
 
 ```
 
