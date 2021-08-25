@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-nepali_municipalities.egg-info/PKG-INFO
-nepali_municipalities.egg-info/SOURCES.txt
-nepali_municipalities.egg-info/dependency_links.txt
-nepali_municipalities.egg-info/top_level.txt
-src/__init__.py
-src/municipalities_nepal.py

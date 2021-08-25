@@ -1,1 +1,0 @@
-from src.municipalities_nepal import NepalMunicipality

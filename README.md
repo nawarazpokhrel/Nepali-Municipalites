@@ -10,7 +10,7 @@ To get list of all districts of Nepal
 ```python
 from src.municipalities_nepal import NepalMunicipality
 
-NepalMunicipality().all_districts()
+print(NepalMunicipality().all_districts())
 # ['Bhojpur', 'Dhankuta', 'Ilam', 'Jhapa', ......]
 
 ```
@@ -20,9 +20,10 @@ To get list of all municipalities of Nepal
 ```python
 from src.municipalities_nepal import NepalMunicipality
 
-NepalMunicipality('Kathmandu').all_municipalities()
+print(NepalMunicipality('Kathmandu').all_municipalities())
 # ['Kathmandu', 'Kageshwori Manohara', 'Kirtipur', 'Gokarneshwor', 'Chandragiri', 'Tokha', 'Tarkeshwor', 'Dakchinkali', 'Nagarjun', 'Budhanilkantha', 'Shankharapur']
 
+print(NepalMunicipality('Kaski').all_municipalities())
 ```
 
 
