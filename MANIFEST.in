@@ -1,0 +1,3 @@
+include README.md
+include src/data/data.json
+include src/nepali_municipalities

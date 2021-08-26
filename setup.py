@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='nepali-municipality',
-    version='1.0.1',  # Required
+    version='0.0.7',  # Required
     description='Nepali  municipalities is a python package to get data about Nepali municipalities based on districts ',
     url='https://github.com/nawarazpokhrel/Nepali-Municipalites',
     long_description=long_description,
@@ -20,7 +20,7 @@ setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
-
+    include_package_data=True,
 
     keywords=['Nepali', 'nepali districts', 'nepali municipalities', 'navaraj pokharel', 'nepali states'],
 

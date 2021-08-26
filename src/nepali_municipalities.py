@@ -18,7 +18,7 @@ class DistrictNotProvidedException(Exception):
 class NepalMunicipality:
     def __init__(self, district_name=None):
         self._district_name = district_name
-        f = open('data.json', 'r')
+        f = open('data/data.json', 'r')
         self._data = json.loads(f.read())
         self._district = []
 
