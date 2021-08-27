@@ -1,4 +1,5 @@
 import json
+import os
 
 
 class DistrictNotFoundException(Exception):
@@ -18,7 +19,9 @@ class DistrictNotProvidedException(Exception):
 class NepalMunicipality:
     def __init__(self, district_name=None):
         self._district_name = district_name
-        f = open('data/data.json', 'r')
+        BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+        json_data_path = os.path.join(BASE_DIR, 'data', 'data.json')
+        f = open(json_data_path, 'r')
         self._data = json.loads(f.read())
         self._district = []
 
@@ -45,5 +48,4 @@ class NepalMunicipality:
                     raise DistrictNotFoundException('District not found for following text provided check district '
                                                     'spelling.')
         raise DistrictNotProvidedException('District not provided please provided district.')
-
 
