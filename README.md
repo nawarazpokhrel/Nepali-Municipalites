@@ -1,4 +1,6 @@
 # Nepali Municipalities
+[![Downloads](https://static.pepy.tech/personalized-badge/nepali-municipality?period=total&units=international_system&left_color=black&right_color=yellowgreen&left_text=Downloads)](https://pepy.tech/project/nepali-municipality)
+
 
 This is a simple and small python package contributed by me to get all list of municipalities of Nepal based on given districts of Nepal.
 # Contents
