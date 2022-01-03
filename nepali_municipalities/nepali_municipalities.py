@@ -22,6 +22,7 @@ class NepalMunicipality:
         BASE_DIR = os.path.dirname(os.path.abspath(__file__))
         json_data_path = os.path.join(BASE_DIR, 'data', 'data.json')
         f = open(json_data_path, 'r')
+        print(f)
         self._data = json.loads(f.read())
         self._district = []
 
