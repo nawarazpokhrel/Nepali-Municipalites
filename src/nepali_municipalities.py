@@ -13,7 +13,7 @@ class DistrictNotProvidedException(Exception):
     """
     Exception to be raised if  district is not provided by user
     """
-    pass
+    # pass
 
 
 class NepalMunicipality:
@@ -47,5 +47,6 @@ class NepalMunicipality:
                 else:
                     raise DistrictNotFoundException('District not found for following text provided check district '
                                                     'spelling.')
-        raise DistrictNotProvidedException('District not provided please provided district.')
+        raise DistrictNotProvidedException('District not provided please provide district.')
+
 

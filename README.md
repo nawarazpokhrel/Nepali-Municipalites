@@ -8,7 +8,7 @@ Use the package manager pip to install nepal-municipalities.
 To get list of all districts of Nepal
 
 ```python
-from src.nepali_municipalities import NepalMunicipality
+from nepali_municipalities import NepalMunicipality
 
 print(NepalMunicipality().all_districts())
 # ['Bhojpur', 'Dhankuta', 'Ilam', 'Jhapa', ......]
@@ -18,7 +18,7 @@ print(NepalMunicipality().all_districts())
 To get list of all municipalities of Nepal
 
 ```python
-from src.nepali_municipalities import NepalMunicipality
+from nepali_municipalities import NepalMunicipality
 
 print(NepalMunicipality('Kathmandu').all_municipalities())
 # ['Kathmandu', 'Kageshwori Manohara', 'Kirtipur', 'Gokarneshwor', 'Chandragiri', 'Tokha', 'Tarkeshwor', 'Dakchinkali', 'Nagarjun', 'Budhanilkantha', 'Shankharapur']
@@ -29,6 +29,9 @@ print(NepalMunicipality('Kaski').all_municipalities())
 
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+#Update on new version
+you can now use [Nepali Municipalities](https://nepali-municipalities.herokuapp.com/api/docs/) API too.
 
 
 ## License
