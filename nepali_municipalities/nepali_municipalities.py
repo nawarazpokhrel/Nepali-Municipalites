@@ -45,8 +45,8 @@ class NepalMunicipality:
                     if items.get(self._district_name) is not None:
                         return items.get(self._district_name)
                 else:
-                    raise DistrictNotFoundException('District not found for following text provided check district '
-                                                    'spelling.')
-        raise DistrictNotProvidedException('District not provided please provide district.')
+                    raise DistrictNotFoundException('District not found for following text, please check '
+                                                    'district spelling.')
+        raise DistrictNotProvidedException('District not provided please provide district name.')
 
 
