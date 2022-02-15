@@ -1,0 +1,5210 @@
+[
+        {
+            "id": 1,
+            "name": "Bhojpur",
+            "district": "Bhojpur",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 2,
+            "name": "Sadananda",
+            "district": "Bhojpur",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 3,
+            "name": "Tyamkemaiyum",
+            "district": "Bhojpur",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 4,
+            "name": "Ramprasadrai",
+            "district": "Bhojpur",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 5,
+            "name": "Arun",
+            "district": "Bhojpur",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 6,
+            "name": "Pauwadungma",
+            "district": "Bhojpur",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 7,
+            "name": "Salpasilichho",
+            "district": "Bhojpur",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 8,
+            "name": "Aamchowk",
+            "district": "Bhojpur",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 9,
+            "name": "Hatuwagadhi",
+            "district": "Bhojpur",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 10,
+            "name": "Pakhribaas",
+            "district": "Dhankuta",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 11,
+            "name": "Dhankuta",
+            "district": "Dhankuta",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 12,
+            "name": "Mahalaxmi",
+            "district": "Dhankuta",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 13,
+            "name": "Sagurigadhi",
+            "district": "Dhankuta",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 14,
+            "name": "Khalsa Chhintang Sahidbhumi",
+            "district": "Dhankuta",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 15,
+            "name": "Chhathar Jorpati",
+            "district": "Dhankuta",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 16,
+            "name": "Chaubise",
+            "district": "Dhankuta",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 17,
+            "name": "Illam",
+            "district": "Ilam",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 18,
+            "name": "Deumai",
+            "district": "Ilam",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 19,
+            "name": "Mai",
+            "district": "Ilam",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 20,
+            "name": "Suryodaya",
+            "district": "Ilam",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 21,
+            "name": "Fakfokthum",
+            "district": "Ilam",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 22,
+            "name": "Chulachuli",
+            "district": "Ilam",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 23,
+            "name": "Maijogmai",
+            "district": "Ilam",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 24,
+            "name": "Mangsebung",
+            "district": "Ilam",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 25,
+            "name": "Rong",
+            "district": "Ilam",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 26,
+            "name": "Sandakpur",
+            "district": "Ilam",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 27,
+            "name": "Mechinagar",
+            "district": "Jhapa",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 28,
+            "name": "Damak",
+            "district": "Jhapa",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 29,
+            "name": "Kankai",
+            "district": "Jhapa",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 30,
+            "name": "Bhadrapur",
+            "district": "Jhapa",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 31,
+            "name": "Arjundhara",
+            "district": "Jhapa",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 32,
+            "name": "Shivasatakshi",
+            "district": "Jhapa",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 33,
+            "name": "Gauradaha",
+            "district": "Jhapa",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 34,
+            "name": "Birtamod",
+            "district": "Jhapa",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 35,
+            "name": "Kamal",
+            "district": "Jhapa",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 36,
+            "name": "Gaurigunj",
+            "district": "Jhapa",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 37,
+            "name": "Barhadashi",
+            "district": "Jhapa",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 38,
+            "name": "Jhapa",
+            "district": "Jhapa",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 39,
+            "name": "Buddhasanti",
+            "district": "Jhapa",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 40,
+            "name": "Haldibari",
+            "district": "Jhapa",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 41,
+            "name": "Kachankawal",
+            "district": "Jhapa",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 42,
+            "name": "Halesituwachung",
+            "district": "Khotang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 43,
+            "name": "Rupakot Majhuwagadhi",
+            "district": "Khotang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 44,
+            "name": "Aiselukharka",
+            "district": "Khotang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 45,
+            "name": "Lamidada",
+            "district": "Khotang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 46,
+            "name": "Jantedhunga",
+            "district": "Khotang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 47,
+            "name": "Khotehang",
+            "district": "Khotang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 48,
+            "name": "Kepilasgadhi",
+            "district": "Khotang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 49,
+            "name": "Diprung",
+            "district": "Khotang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 50,
+            "name": "Sakela",
+            "district": "Khotang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 51,
+            "name": "Barahpokhari",
+            "district": "Khotang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 52,
+            "name": "Biratnagar",
+            "district": "Morang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 53,
+            "name": "Belbaari",
+            "district": "Morang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 54,
+            "name": "Letang",
+            "district": "Morang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 55,
+            "name": "Pathari Sanischare",
+            "district": "Morang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 56,
+            "name": "Rangeli",
+            "district": "Morang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 57,
+            "name": "Ratuwamai",
+            "district": "Morang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 58,
+            "name": "Sunawarsi",
+            "district": "Morang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 59,
+            "name": "Urlabaari",
+            "district": "Morang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 60,
+            "name": "Sundarharaincha",
+            "district": "Morang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 61,
+            "name": "Budhiganga",
+            "district": "Morang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 62,
+            "name": "Dhanpalthan",
+            "district": "Morang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 63,
+            "name": "Gramthan",
+            "district": "Morang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 64,
+            "name": "Jahada",
+            "district": "Morang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 65,
+            "name": "Kanepokhari",
+            "district": "Morang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 66,
+            "name": "Katahari",
+            "district": "Morang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 67,
+            "name": "Kerabaari",
+            "district": "Morang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 68,
+            "name": "Miklajung",
+            "district": "Morang",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 69,
+            "name": "Siddhicharan",
+            "district": "Okhaldhunga",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 70,
+            "name": "Khijidemwa",
+            "district": "Okhaldhunga",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 71,
+            "name": "Champadevi",
+            "district": "Okhaldhunga",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 72,
+            "name": "Chisankhugadhi",
+            "district": "Okhaldhunga",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 73,
+            "name": "Manebhanjyang",
+            "district": "Okhaldhunga",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 74,
+            "name": "Molung",
+            "district": "Okhaldhunga",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 75,
+            "name": "Likhu",
+            "district": "Okhaldhunga",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 76,
+            "name": "Sunkoshi",
+            "district": "Okhaldhunga",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 77,
+            "name": "Fidim",
+            "district": "Panchthar",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 78,
+            "name": "Falelung",
+            "district": "Panchthar",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 79,
+            "name": "Falgunanda",
+            "district": "Panchthar",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 80,
+            "name": "Hilihang",
+            "district": "Panchthar",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 81,
+            "name": "Kummayek",
+            "district": "Panchthar",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 82,
+            "name": "Miklajung",
+            "district": "Panchthar",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 83,
+            "name": "Tumwewa",
+            "district": "Panchthar",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 84,
+            "name": "Yangwarak",
+            "district": "Panchthar",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 85,
+            "name": "Chainpur",
+            "district": "Sankhuwasabha",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 86,
+            "name": "Dharmadevi",
+            "district": "Sankhuwasabha",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 87,
+            "name": "Khaadbaari",
+            "district": "Sankhuwasabha",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 88,
+            "name": "Madi",
+            "district": "Sankhuwasabha",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 89,
+            "name": "Paanchkhapan",
+            "district": "Sankhuwasabha",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 90,
+            "name": "Bhotkhola",
+            "district": "Sankhuwasabha",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 91,
+            "name": "Chichila",
+            "district": "Sankhuwasabha",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 92,
+            "name": "Makalu",
+            "district": "Sankhuwasabha",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 93,
+            "name": "Sabhapokhari",
+            "district": "Sankhuwasabha",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 94,
+            "name": "Silichong",
+            "district": "Sankhuwasabha",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 95,
+            "name": "Solududhkunda",
+            "district": "Solukhumbu",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 96,
+            "name": "Dudhkoshi",
+            "district": "Solukhumbu",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 97,
+            "name": "Khumbu Pasang Lhamu",
+            "district": "Solukhumbu",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 98,
+            "name": "Dudhkausika",
+            "district": "Solukhumbu",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 99,
+            "name": "Nechasalyan",
+            "district": "Solukhumbu",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 100,
+            "name": "Mahakulung",
+            "district": "Solukhumbu",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 101,
+            "name": "Likhu Pike",
+            "district": "Solukhumbu",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 102,
+            "name": "Sotang",
+            "district": "Solukhumbu",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 103,
+            "name": "Itahari",
+            "district": "Sunsari",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 104,
+            "name": "Dharan",
+            "district": "Sunsari",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 105,
+            "name": "Inaruwa",
+            "district": "Sunsari",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 106,
+            "name": "Duhabi",
+            "district": "Sunsari",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 107,
+            "name": "Ramdhuni",
+            "district": "Sunsari",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 108,
+            "name": "Barah",
+            "district": "Sunsari",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 109,
+            "name": "Dewangunj",
+            "district": "Sunsari",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 110,
+            "name": "Koshi",
+            "district": "Sunsari",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 111,
+            "name": "Gadhi",
+            "district": "Sunsari",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 112,
+            "name": "Barju",
+            "district": "Sunsari",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 113,
+            "name": "Bhokraha",
+            "district": "Sunsari",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 114,
+            "name": "Harinagara",
+            "district": "Sunsari",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 115,
+            "name": "Fungling",
+            "district": "TapleJung",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 116,
+            "name": "Athrai Tribeni",
+            "district": "TapleJung",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 117,
+            "name": "Sidingwa",
+            "district": "TapleJung",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 118,
+            "name": "Faktanglung",
+            "district": "TapleJung",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 119,
+            "name": "Mikhwakhola",
+            "district": "TapleJung",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 120,
+            "name": "Meringden",
+            "district": "TapleJung",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 121,
+            "name": "Maiwakhola",
+            "district": "TapleJung",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 122,
+            "name": "Yangwarak",
+            "district": "TapleJung",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 123,
+            "name": "Sirijunga",
+            "district": "TapleJung",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 124,
+            "name": "Myanglung",
+            "district": "Terhathum",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 125,
+            "name": "Laligurans",
+            "district": "Terhathum",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 126,
+            "name": "Athrai",
+            "district": "Terhathum",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 127,
+            "name": "Chhathar",
+            "district": "Terhathum",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 128,
+            "name": "Fedaap",
+            "district": "Terhathum",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 129,
+            "name": "Menchhayayem",
+            "district": "Terhathum",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 130,
+            "name": "Katari",
+            "district": "Udayapur",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 131,
+            "name": "Chaudandagadhi",
+            "district": "Udayapur",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 132,
+            "name": "Triyuga",
+            "district": "Udayapur",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 133,
+            "name": "Belaka",
+            "district": "Udayapur",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 134,
+            "name": "Udaypurgadhi",
+            "district": "Udayapur",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 135,
+            "name": "Tapli",
+            "district": "Udayapur",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 136,
+            "name": "Rautamai",
+            "district": "Udayapur",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 137,
+            "name": "Sunkoshi",
+            "district": "Udayapur",
+            "province": "Province 1",
+            "country": "Nepal"
+        },
+        {
+            "id": 138,
+            "name": "Kalaiya",
+            "district": "Bara",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 139,
+            "name": "Jitpursimara",
+            "district": "Bara",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 140,
+            "name": "Kolhawi",
+            "district": "Bara",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 141,
+            "name": "Nijgadh",
+            "district": "Bara",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 142,
+            "name": "Mahagadimai",
+            "district": "Bara",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 143,
+            "name": "Simraungadh",
+            "district": "Bara",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 144,
+            "name": "Adarsha Kotwal",
+            "district": "Bara",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 145,
+            "name": "Karaiyamai",
+            "district": "Bara",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 146,
+            "name": "Devtaal",
+            "district": "Bara",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 147,
+            "name": "Pachrauta",
+            "district": "Bara",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 148,
+            "name": "Parwanipur",
+            "district": "Bara",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 149,
+            "name": "Prasauni",
+            "district": "Bara",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 150,
+            "name": "Pheta",
+            "district": "Bara",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 151,
+            "name": "Baragadhi",
+            "district": "Bara",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 152,
+            "name": "Subarna",
+            "district": "Bara",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 153,
+            "name": "Janakpur",
+            "district": "Dhanusha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 154,
+            "name": "Chhireshwor",
+            "district": "Dhanusha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 155,
+            "name": "Ganeshman Charnath",
+            "district": "Dhanusha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 156,
+            "name": "Dhanusadham",
+            "district": "Dhanusha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 157,
+            "name": "Nagarain",
+            "district": "Dhanusha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 158,
+            "name": "Videha",
+            "district": "Dhanusha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 159,
+            "name": "Mithila",
+            "district": "Dhanusha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 160,
+            "name": "Sahidnagar",
+            "district": "Dhanusha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 161,
+            "name": "Sabaila",
+            "district": "Dhanusha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 162,
+            "name": "Siddidatri",
+            "district": "Dhanusha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 163,
+            "name": "Janaknandini",
+            "district": "Dhanusha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 164,
+            "name": "Bateshwor",
+            "district": "Dhanusha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 165,
+            "name": "Mithila Bihari",
+            "district": "Dhanusha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 166,
+            "name": "Mukhiyapatti musaharmiya",
+            "district": "Dhanusha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 167,
+            "name": "Laxminiya",
+            "district": "Dhanusha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 168,
+            "name": "Hansapur",
+            "district": "Dhanusha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 169,
+            "name": "Aurahi",
+            "district": "Dhanusha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 170,
+            "name": "Jaleshwor",
+            "district": "Mahottari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 171,
+            "name": "Bardibas",
+            "district": "Mahottari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 172,
+            "name": "Gausala",
+            "district": "Mahottari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 173,
+            "name": "Ekdara",
+            "district": "Mahottari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 174,
+            "name": "Somana",
+            "district": "Mahottari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 175,
+            "name": "Samsi",
+            "district": "Mahottari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 176,
+            "name": "Loharpatti",
+            "district": "Mahottari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 177,
+            "name": "Ramgopalpur",
+            "district": "Mahottari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 178,
+            "name": "Mahottari",
+            "district": "Mahottari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 179,
+            "name": "Manara",
+            "district": "Mahottari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 180,
+            "name": "Matihani",
+            "district": "Mahottari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 181,
+            "name": "Bhanggaha",
+            "district": "Mahottari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 182,
+            "name": "Balawa",
+            "district": "Mahottari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 183,
+            "name": "Pipara",
+            "district": "Mahottari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 184,
+            "name": "Aurahi",
+            "district": "Mahottari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 185,
+            "name": "Birgunj",
+            "district": "Parsa",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 186,
+            "name": "Pokhariya",
+            "district": "Parsa",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 187,
+            "name": "Subarnapur",
+            "district": "Parsa",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 188,
+            "name": "Jagarnathpur",
+            "district": "Parsa",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 189,
+            "name": "Dhobini",
+            "district": "Parsa",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 190,
+            "name": "Chhipaharmai",
+            "district": "Parsa",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 191,
+            "name": "Pakaha Mainapur",
+            "district": "Parsa",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 192,
+            "name": "Bindabasini",
+            "district": "Parsa",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 193,
+            "name": "Bahudarmai",
+            "district": "Parsa",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 194,
+            "name": "Belawa",
+            "district": "Parsa",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 195,
+            "name": "Parsagadhi",
+            "district": "Parsa",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 196,
+            "name": "Sakhuwa Prasauni",
+            "district": "Parsa",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 197,
+            "name": "Paterwa Sugauli",
+            "district": "Parsa",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 198,
+            "name": "Chandrapur",
+            "district": "Rautahat",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 199,
+            "name": "Garuda",
+            "district": "Rautahat",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 200,
+            "name": "Gaur",
+            "district": "Rautahat",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 201,
+            "name": "Baudhimai",
+            "district": "Rautahat",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 202,
+            "name": "Brindaban",
+            "district": "Rautahat",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 203,
+            "name": "Dewahi Gonahi",
+            "district": "Rautahat",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 204,
+            "name": "Durga Bhagwati",
+            "district": "Rautahat",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 205,
+            "name": "Gadhimai",
+            "district": "Rautahat",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 206,
+            "name": "Gujara",
+            "district": "Rautahat",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 207,
+            "name": "Katahariya",
+            "district": "Rautahat",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 208,
+            "name": "Madhav Narayan",
+            "district": "Rautahat",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 209,
+            "name": "Maulapur",
+            "district": "Rautahat",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 210,
+            "name": "Fatuwa Bijayapur",
+            "district": "Rautahat",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 211,
+            "name": "Ishanath",
+            "district": "Rautahat",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 212,
+            "name": "Paroha",
+            "district": "Rautahat",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 213,
+            "name": "Rajpur",
+            "district": "Rautahat",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 214,
+            "name": "rajbiraj nagarpalika",
+            "district": "Saptari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 215,
+            "name": "Kanchanrup",
+            "district": "Saptari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 216,
+            "name": "Dakneshwori",
+            "district": "Saptari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 217,
+            "name": "Bodebarsain",
+            "district": "Saptari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 218,
+            "name": "Khadak",
+            "district": "Saptari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 219,
+            "name": "Sambhunath",
+            "district": "Saptari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 220,
+            "name": "Surunga",
+            "district": "Saptari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 221,
+            "name": "hanumannagar kankalini",
+            "district": "Saptari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 222,
+            "name": "Krishna sabaran",
+            "district": "Saptari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 223,
+            "name": "Chhinnamasta",
+            "district": "Saptari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 224,
+            "name": "Mahadeva",
+            "district": "Saptari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 225,
+            "name": "Saptakosi",
+            "district": "Saptari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 226,
+            "name": "Tirahut",
+            "district": "Saptari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 227,
+            "name": "Tilathi Koiladi",
+            "district": "Saptari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 228,
+            "name": "Rupani",
+            "district": "Saptari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 229,
+            "name": "Belhi Chapena",
+            "district": "Saptari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 230,
+            "name": "Bishnupur",
+            "district": "Saptari",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 231,
+            "name": "Ishworpur",
+            "district": "Sarlahi",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 232,
+            "name": "Lalbandi",
+            "district": "Sarlahi",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 233,
+            "name": "Haripur",
+            "district": "Sarlahi",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 234,
+            "name": "Haripurba",
+            "district": "Sarlahi",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 235,
+            "name": "Hariban",
+            "district": "Sarlahi",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 236,
+            "name": "Barahathawa",
+            "district": "Sarlahi",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 237,
+            "name": "Balara",
+            "district": "Sarlahi",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 238,
+            "name": "Godaita",
+            "district": "Sarlahi",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 239,
+            "name": "Malangwa",
+            "district": "Sarlahi",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 240,
+            "name": "Bagmati",
+            "district": "Sarlahi",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 241,
+            "name": "Kabilasi",
+            "district": "Sarlahi",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 242,
+            "name": "Chakraghatta",
+            "district": "Sarlahi",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 243,
+            "name": "Chandranagar",
+            "district": "Sarlahi",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 244,
+            "name": "Dhankaul",
+            "district": "Sarlahi",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 245,
+            "name": "Bramhapuri",
+            "district": "Sarlahi",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 246,
+            "name": "Ramnagar",
+            "district": "Sarlahi",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 247,
+            "name": "Bishnu",
+            "district": "Sarlahi",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 248,
+            "name": "Lahan",
+            "district": "Siraha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 249,
+            "name": "Dhangadimai",
+            "district": "Siraha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 250,
+            "name": "Siraha",
+            "district": "Siraha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 251,
+            "name": "Golbazar",
+            "district": "Siraha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 252,
+            "name": "Mirchaiya",
+            "district": "Siraha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 253,
+            "name": "Kalyanpur",
+            "district": "Siraha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 254,
+            "name": "Bhagawanpur",
+            "district": "Siraha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 255,
+            "name": "Aurahi",
+            "district": "Siraha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 256,
+            "name": "Bishnupur",
+            "district": "Siraha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 257,
+            "name": "Sukhipur",
+            "district": "Siraha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 258,
+            "name": "Karjanha",
+            "district": "Siraha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 259,
+            "name": "Bariyarpatti",
+            "district": "Siraha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 260,
+            "name": "Laxmipur Patari",
+            "district": "Siraha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 261,
+            "name": "Naraha",
+            "district": "Siraha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 262,
+            "name": "Sakhuwanankarkatti",
+            "district": "Siraha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 263,
+            "name": "Arnama",
+            "district": "Siraha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 264,
+            "name": "Nawarajpur",
+            "district": "Siraha",
+            "province": "Province 2",
+            "country": "Nepal"
+        },
+        {
+            "id": 265,
+            "name": "Changu Narayan",
+            "district": "Bhaktapur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 266,
+            "name": "Bhaktapur",
+            "district": "Bhaktapur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 267,
+            "name": "Madhyepur Thimi",
+            "district": "Bhaktapur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 268,
+            "name": "Suryebinayak",
+            "district": "Bhaktapur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 269,
+            "name": "Bharatpur",
+            "district": "Chitwan",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 270,
+            "name": "Kalika",
+            "district": "Chitwan",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 271,
+            "name": "Khairhani",
+            "district": "Chitwan",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 272,
+            "name": "Madi",
+            "district": "Chitwan",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 273,
+            "name": "Ratnanagar",
+            "district": "Chitwan",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 274,
+            "name": "Rapti",
+            "district": "Chitwan",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 275,
+            "name": "Echyakamana",
+            "district": "Chitwan",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 276,
+            "name": "Dhunibenshi",
+            "district": "Dhading",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 277,
+            "name": "Nilkantha",
+            "district": "Dhading",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 278,
+            "name": "Khaniyabash",
+            "district": "Dhading",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 279,
+            "name": "Gajuri",
+            "district": "Dhading",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 280,
+            "name": "Galchi",
+            "district": "Dhading",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 281,
+            "name": "Gangajamuna",
+            "district": "Dhading",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 282,
+            "name": "Jwalamukhi",
+            "district": "Dhading",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 283,
+            "name": "Thakre",
+            "district": "Dhading",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 284,
+            "name": "Netrabati",
+            "district": "Dhading",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 285,
+            "name": "Benighat Rorang",
+            "district": "Dhading",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 286,
+            "name": "Rubi Valley",
+            "district": "Dhading",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 287,
+            "name": "Sidhlake",
+            "district": "Dhading",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 288,
+            "name": "Tripurasundari",
+            "district": "Dhading",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 289,
+            "name": "Jiri",
+            "district": "Dolakha",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 290,
+            "name": "Bhimeshwor",
+            "district": "Dolakha",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 291,
+            "name": "Kalinchowk",
+            "district": "Dolakha",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 292,
+            "name": "Gaurishankar",
+            "district": "Dolakha",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 293,
+            "name": "Tamakoshi",
+            "district": "Dolakha",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 294,
+            "name": "Melung",
+            "district": "Dolakha",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 295,
+            "name": "Bigu",
+            "district": "Dolakha",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 296,
+            "name": "Baiteshwor",
+            "district": "Dolakha",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 297,
+            "name": "Shailung",
+            "district": "Dolakha",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 298,
+            "name": "Dhulikhel",
+            "district": "Kavrepalanchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 299,
+            "name": "Banepa",
+            "district": "Kavrepalanchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 300,
+            "name": "Panauti",
+            "district": "Kavrepalanchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 301,
+            "name": "Panchkhaal",
+            "district": "Kavrepalanchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 302,
+            "name": "Namobuddha",
+            "district": "Kavrepalanchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 303,
+            "name": "Khanikhola",
+            "district": "Kavrepalanchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 304,
+            "name": "Chaurideurali",
+            "district": "Kavrepalanchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 305,
+            "name": "Temaal",
+            "district": "Kavrepalanchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 306,
+            "name": "Bethanchowk",
+            "district": "Kavrepalanchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 307,
+            "name": "Bhumlu",
+            "district": "Kavrepalanchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 308,
+            "name": "Mandandeupur",
+            "district": "Kavrepalanchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 309,
+            "name": "Mahabharat",
+            "district": "Kavrepalanchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 310,
+            "name": "Roshi",
+            "district": "Kavrepalanchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 311,
+            "name": "Kathmandu",
+            "district": "Kathmandu",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 312,
+            "name": "Kageshwori Manohara",
+            "district": "Kathmandu",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 313,
+            "name": "Kirtipur",
+            "district": "Kathmandu",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 314,
+            "name": "Gokarneshwor",
+            "district": "Kathmandu",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 315,
+            "name": "Chandragiri",
+            "district": "Kathmandu",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 316,
+            "name": "Tokha",
+            "district": "Kathmandu",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 317,
+            "name": "Tarkeshwor",
+            "district": "Kathmandu",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 318,
+            "name": "Dakchinkali",
+            "district": "Kathmandu",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 319,
+            "name": "Nagarjun",
+            "district": "Kathmandu",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 320,
+            "name": "Budhanilkantha",
+            "district": "Kathmandu",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 321,
+            "name": "Shankharapur",
+            "district": "Kathmandu",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 322,
+            "name": "Lalitpur",
+            "district": "Lalitpur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 323,
+            "name": "Godawari",
+            "district": "Lalitpur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 324,
+            "name": "Mahalaxmi",
+            "district": "Lalitpur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 325,
+            "name": "Konjyosom",
+            "district": "Lalitpur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 326,
+            "name": "Bagmati",
+            "district": "Lalitpur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 327,
+            "name": "Mahankaal",
+            "district": "Lalitpur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 328,
+            "name": "Hetauda",
+            "district": "Makwanpur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 329,
+            "name": "Thaha",
+            "district": "Makwanpur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 330,
+            "name": "Indrasarobar",
+            "district": "Makwanpur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 331,
+            "name": "Kailash",
+            "district": "Makwanpur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 332,
+            "name": "Bakaiya",
+            "district": "Makwanpur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 333,
+            "name": "Bagmati",
+            "district": "Makwanpur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 334,
+            "name": "Bhimfedi",
+            "district": "Makwanpur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 335,
+            "name": "Makwanpurgadhi",
+            "district": "Makwanpur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 336,
+            "name": "Manhari",
+            "district": "Makwanpur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 337,
+            "name": "Raksirang",
+            "district": "Makwanpur",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 338,
+            "name": "Bidur",
+            "district": "Nuwakot",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 339,
+            "name": "Belkotgadhi",
+            "district": "Nuwakot",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 340,
+            "name": "Kakani",
+            "district": "Nuwakot",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 341,
+            "name": "Kispang",
+            "district": "Nuwakot",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 342,
+            "name": "Tadigaun",
+            "district": "Nuwakot",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 343,
+            "name": "Tarkeshwor",
+            "district": "Nuwakot",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 344,
+            "name": "Dupcheshwor",
+            "district": "Nuwakot",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 345,
+            "name": "Panchakanya",
+            "district": "Nuwakot",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 346,
+            "name": "Likhu",
+            "district": "Nuwakot",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 347,
+            "name": "Meghang",
+            "district": "Nuwakot",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 348,
+            "name": "Shivapuri",
+            "district": "Nuwakot",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 349,
+            "name": "Suryegadhi",
+            "district": "Nuwakot",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 350,
+            "name": "Manthali",
+            "district": "Ramechhap",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 351,
+            "name": "Ramechhap",
+            "district": "Ramechhap",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 352,
+            "name": "Umakunda",
+            "district": "Ramechhap",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 353,
+            "name": "Khandadevi",
+            "district": "Ramechhap",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 354,
+            "name": "Gokulganga",
+            "district": "Ramechhap",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 355,
+            "name": "Doramba",
+            "district": "Ramechhap",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 356,
+            "name": "Likhu",
+            "district": "Ramechhap",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 357,
+            "name": "Sunapati",
+            "district": "Ramechhap",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 358,
+            "name": "Uttargaya",
+            "district": "Rasuwa",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 359,
+            "name": "Kalika",
+            "district": "Rasuwa",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 360,
+            "name": "Gosainkunda",
+            "district": "Rasuwa",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 361,
+            "name": "Naukunda",
+            "district": "Rasuwa",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 362,
+            "name": "Parbatikunda",
+            "district": "Rasuwa",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 363,
+            "name": "Kamalamaai",
+            "district": "Sindhuli",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 364,
+            "name": "Dudhauli",
+            "district": "Sindhuli",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 365,
+            "name": "Golanjor",
+            "district": "Sindhuli",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 366,
+            "name": "Ghyankhel",
+            "district": "Sindhuli",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 367,
+            "name": "Tinpatan",
+            "district": "Sindhuli",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 368,
+            "name": "Fikkal",
+            "district": "Sindhuli",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 369,
+            "name": "Marin",
+            "district": "Sindhuli",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 370,
+            "name": "Sunkoshi",
+            "district": "Sindhuli",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 371,
+            "name": "Hariharpurgadhi",
+            "district": "Sindhuli",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 372,
+            "name": "Chautara Sangachowkgadhi",
+            "district": "Sindhupalchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 373,
+            "name": "Barabise",
+            "district": "Sindhupalchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 374,
+            "name": "Melamchi",
+            "district": "Sindhupalchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 375,
+            "name": "Indrabati",
+            "district": "Sindhupalchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 376,
+            "name": "Jugal",
+            "district": "Sindhupalchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 377,
+            "name": "Panchpokhari Thanpal",
+            "district": "Sindhupalchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 378,
+            "name": "Balephi",
+            "district": "Sindhupalchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 379,
+            "name": "Botekoshi",
+            "district": "Sindhupalchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 380,
+            "name": "Lisankhu Pakhar",
+            "district": "Sindhupalchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 381,
+            "name": "Sunkoshi",
+            "district": "Sindhupalchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 382,
+            "name": "Helambhu",
+            "district": "Sindhupalchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 383,
+            "name": "Tripurasundari",
+            "district": "Sindhupalchowk",
+            "province": "Province 3",
+            "country": "Nepal"
+        },
+        {
+            "id": 384,
+            "name": "Baglung",
+            "district": "Baglung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 385,
+            "name": "Galkot",
+            "district": "Baglung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 386,
+            "name": "Jaimini",
+            "district": "Baglung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 387,
+            "name": "Dhorpatan",
+            "district": "Baglung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 388,
+            "name": "Bareng",
+            "district": "Baglung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 389,
+            "name": "Kathekhola",
+            "district": "Baglung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 390,
+            "name": "Tamankhola",
+            "district": "Baglung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 391,
+            "name": "Tarakhola",
+            "district": "Baglung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 392,
+            "name": "Nisikhola",
+            "district": "Baglung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 393,
+            "name": "Badigad",
+            "district": "Baglung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 394,
+            "name": "Gorkha",
+            "district": "Gorkha",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 395,
+            "name": "Palungtar",
+            "district": "Gorkha",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 396,
+            "name": "Sulikot",
+            "district": "Gorkha",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 397,
+            "name": "Siranchok",
+            "district": "Gorkha",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 398,
+            "name": "Ajirkot",
+            "district": "Gorkha",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 399,
+            "name": "Aarughat",
+            "district": "Gorkha",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 400,
+            "name": "Gandaki",
+            "district": "Gorkha",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 401,
+            "name": "Chumnubri",
+            "district": "Gorkha",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 402,
+            "name": "Dharche",
+            "district": "Gorkha",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 403,
+            "name": "Bhimsen",
+            "district": "Gorkha",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 404,
+            "name": "Sahid Lakhan",
+            "district": "Gorkha",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 405,
+            "name": "Pokhara Lekhanath",
+            "district": "Kaski",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 406,
+            "name": "Annapurna",
+            "district": "Kaski",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 407,
+            "name": "Machhapuchhre",
+            "district": "Kaski",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 408,
+            "name": "Madi",
+            "district": "Kaski",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 409,
+            "name": "Rupa",
+            "district": "Kaski",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 410,
+            "name": "Beshi Sahar",
+            "district": "Lamjung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 411,
+            "name": "Madhya Nepal",
+            "district": "Lamjung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 412,
+            "name": "Rainas",
+            "district": "Lamjung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 413,
+            "name": "Sundar Bajar",
+            "district": "Lamjung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 414,
+            "name": "Kobholasothar",
+            "district": "Lamjung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 415,
+            "name": "Dudhpokhari",
+            "district": "Lamjung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 416,
+            "name": "Dordi",
+            "district": "Lamjung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 417,
+            "name": "Marsyandi",
+            "district": "Lamjung",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 418,
+            "name": "Narfu",
+            "district": "Manang",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 419,
+            "name": "Nashon",
+            "district": "Manang",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 420,
+            "name": "Neshyang",
+            "district": "Manang",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 421,
+            "name": "Chame",
+            "district": "Manang",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 422,
+            "name": "Gharpajhong",
+            "district": "Mustang",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 423,
+            "name": "Thasang",
+            "district": "Mustang",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 424,
+            "name": "Dalome",
+            "district": "Mustang",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 425,
+            "name": "Lomanthang",
+            "district": "Mustang",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 426,
+            "name": "Barhagaun Muktichhetra",
+            "district": "Mustang",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 427,
+            "name": "Beni",
+            "district": "Myagdi",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 428,
+            "name": "Annapurna",
+            "district": "Myagdi",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 429,
+            "name": "Dhaulagiri",
+            "district": "Myagdi",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 430,
+            "name": "Mangala",
+            "district": "Myagdi",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 431,
+            "name": "Malika",
+            "district": "Myagdi",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 432,
+            "name": "Raghuganga",
+            "district": "Myagdi",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 433,
+            "name": "Kawasoti",
+            "district": "Nawalparasi (State 4)",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 434,
+            "name": "Gaindakot",
+            "district": "Nawalparasi (State 4)",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 435,
+            "name": "Devchuli",
+            "district": "Nawalparasi (State 4)",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 436,
+            "name": "Madhyabindu",
+            "district": "Nawalparasi (State 4)",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 437,
+            "name": "Bungdikali",
+            "district": "Nawalparasi (State 4)",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 438,
+            "name": "Bulingtar",
+            "district": "Nawalparasi (State 4)",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 439,
+            "name": "Binaie",
+            "district": "Nawalparasi (State 4)",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 440,
+            "name": "Hupsekot",
+            "district": "Nawalparasi (State 4)",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 441,
+            "name": "Kushma",
+            "district": "Parbat",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 442,
+            "name": "Phalewas",
+            "district": "Parbat",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 443,
+            "name": "Jaljala",
+            "district": "Parbat",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 444,
+            "name": "paiyu",
+            "district": "Parbat",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 445,
+            "name": "Mahashila",
+            "district": "Parbat",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 446,
+            "name": "Modi",
+            "district": "Parbat",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 447,
+            "name": "Bihadi",
+            "district": "Parbat",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 448,
+            "name": "Galyang",
+            "district": "Syangja",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 449,
+            "name": "Chapkot",
+            "district": "Syangja",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 450,
+            "name": "Putalibazar",
+            "district": "Syangja",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 451,
+            "name": "Virkot",
+            "district": "Syangja",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 452,
+            "name": "Waling",
+            "district": "Syangja",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 453,
+            "name": "Arjunchaupari",
+            "district": "Syangja",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 454,
+            "name": "Aadhikhola",
+            "district": "Syangja",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 455,
+            "name": "Kaligandaki",
+            "district": "Syangja",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 456,
+            "name": "Fedikhola",
+            "district": "Syangja",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 457,
+            "name": "Biruwa",
+            "district": "Syangja",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 458,
+            "name": "Harinas",
+            "district": "Syangja",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 459,
+            "name": "Bhanu",
+            "district": "Tanahun",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 460,
+            "name": "Bhimad",
+            "district": "Tanahun",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 461,
+            "name": "Byas",
+            "district": "Tanahun",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 462,
+            "name": "Shuklagandaki",
+            "district": "Tanahun",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 463,
+            "name": "Ambukhaireni",
+            "district": "Tanahun",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 464,
+            "name": "Rhishing",
+            "district": "Tanahun",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 465,
+            "name": "Ghiring",
+            "district": "Tanahun",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 466,
+            "name": "Devghat",
+            "district": "Tanahun",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 467,
+            "name": "Myagdi",
+            "district": "Tanahun",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 468,
+            "name": "Bandipur",
+            "district": "Tanahun",
+            "province": "Province 4",
+            "country": "Nepal"
+        },
+        {
+            "id": 469,
+            "name": "Sandhikharka",
+            "district": "Arghakhanchi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 470,
+            "name": "Sitganga",
+            "district": "Arghakhanchi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 471,
+            "name": "Bhumikasthan",
+            "district": "Arghakhanchi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 472,
+            "name": "Chhatradev",
+            "district": "Arghakhanchi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 473,
+            "name": "Pandini",
+            "district": "Arghakhanchi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 474,
+            "name": "Malarani",
+            "district": "Arghakhanchi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 475,
+            "name": "Nepalgunj",
+            "district": "Banke",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 476,
+            "name": "Koholpur",
+            "district": "Banke",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 477,
+            "name": "Narainapur",
+            "district": "Banke",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 478,
+            "name": "Raptisonari",
+            "district": "Banke",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 479,
+            "name": "Baijanath",
+            "district": "Banke",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 480,
+            "name": "Khajura",
+            "district": "Banke",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 481,
+            "name": "Duduwa",
+            "district": "Banke",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 482,
+            "name": "Janaki",
+            "district": "Banke",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 483,
+            "name": "Gulariya",
+            "district": "Bardiya",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 484,
+            "name": "Madhuban",
+            "district": "Bardiya",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 485,
+            "name": "Rajapur",
+            "district": "Bardiya",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 486,
+            "name": "Thakurbaba",
+            "district": "Bardiya",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 487,
+            "name": "Bansgadhi",
+            "district": "Bardiya",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 488,
+            "name": "Barbardiya",
+            "district": "Bardiya",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 489,
+            "name": "Badhaiyatal",
+            "district": "Bardiya",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 490,
+            "name": "Geruwa",
+            "district": "Bardiya",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 491,
+            "name": "Tulsipur",
+            "district": "Dang",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 492,
+            "name": "Ghorahi",
+            "district": "Dang",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 493,
+            "name": "Lamahi",
+            "district": "Dang",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 494,
+            "name": "Bangalichuli",
+            "district": "Dang",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 495,
+            "name": "Dangisaran",
+            "district": "Dang",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 496,
+            "name": "Gadhawa",
+            "district": "Dang",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 497,
+            "name": "Rajpur",
+            "district": "Dang",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 498,
+            "name": "Rapti",
+            "district": "Dang",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 499,
+            "name": "Santinagar",
+            "district": "Dang",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 500,
+            "name": "Babai",
+            "district": "Dang",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 501,
+            "name": "Musikot",
+            "district": "Gulmi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 502,
+            "name": "Resunga",
+            "district": "Gulmi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 503,
+            "name": "Ishma",
+            "district": "Gulmi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 504,
+            "name": "Kaligandaki",
+            "district": "Gulmi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 505,
+            "name": "Gulmidarbar",
+            "district": "Gulmi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 506,
+            "name": "Satyawoti",
+            "district": "Gulmi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 507,
+            "name": "Chandrakot",
+            "district": "Gulmi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 508,
+            "name": "Ruru",
+            "district": "Gulmi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 509,
+            "name": "Chhatrakot",
+            "district": "Gulmi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 510,
+            "name": "Dhurkot",
+            "district": "Gulmi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 511,
+            "name": "Madane",
+            "district": "Gulmi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 512,
+            "name": "Malika",
+            "district": "Gulmi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 513,
+            "name": "Kapilvastu",
+            "district": "Kapilvastu",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 514,
+            "name": "Buddhabhumi",
+            "district": "Kapilvastu",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 515,
+            "name": "Shivaraj",
+            "district": "Kapilvastu",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 516,
+            "name": "Maharajgang",
+            "district": "Kapilvastu",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 517,
+            "name": "Krishnanagar",
+            "district": "Kapilvastu",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 518,
+            "name": "Bandganga",
+            "district": "Kapilvastu",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 519,
+            "name": "Mayadevi",
+            "district": "Kapilvastu",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 520,
+            "name": "Yesodhara",
+            "district": "Kapilvastu",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 521,
+            "name": "Bijayanagar",
+            "district": "Kapilvastu",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 522,
+            "name": "Suddhodhan",
+            "district": "Kapilvastu",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 523,
+            "name": "Sarawal",
+            "district": "Nawalparasi West",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 524,
+            "name": "Ramgram",
+            "district": "Nawalparasi West",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 525,
+            "name": "Sunwal",
+            "district": "Nawalparasi West",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 526,
+            "name": "Tribenisusta",
+            "district": "Nawalparasi West",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 527,
+            "name": "Palhinandan",
+            "district": "Nawalparasi West",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 528,
+            "name": "Pratappur",
+            "district": "Nawalparasi West",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 529,
+            "name": "Bardghat",
+            "district": "Nawalparasi West",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 530,
+            "name": "Rampur",
+            "district": "Palpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 531,
+            "name": "Tansen",
+            "district": "Palpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 532,
+            "name": "Nisdi",
+            "district": "Palpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 533,
+            "name": "Purbakhola",
+            "district": "Palpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 534,
+            "name": "Rambha",
+            "district": "Palpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 535,
+            "name": "Mathagadi",
+            "district": "Palpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 536,
+            "name": "Tinau",
+            "district": "Palpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 537,
+            "name": "Baganaskali",
+            "district": "Palpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 538,
+            "name": "Ribdikot",
+            "district": "Palpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 539,
+            "name": "Rainadevi Chhahara",
+            "district": "Palpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 540,
+            "name": "Pyuthan",
+            "district": "Pyuthan",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 541,
+            "name": "Sworgadwari",
+            "district": "Pyuthan",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 542,
+            "name": "Gaumukhi",
+            "district": "Pyuthan",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 543,
+            "name": "Mandabi",
+            "district": "Pyuthan",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 544,
+            "name": "Sarumarani",
+            "district": "Pyuthan",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 545,
+            "name": "Mallarani",
+            "district": "Pyuthan",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 546,
+            "name": "Naubahini",
+            "district": "Pyuthan",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 547,
+            "name": "Jhimruk",
+            "district": "Pyuthan",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 548,
+            "name": "Arawoti",
+            "district": "Pyuthan",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 549,
+            "name": "Rolpa",
+            "district": "Rolpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 550,
+            "name": "Tribeni",
+            "district": "Rolpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 551,
+            "name": "Duikholi",
+            "district": "Rolpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 552,
+            "name": "Madi",
+            "district": "Rolpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 553,
+            "name": "Runtigadhi",
+            "district": "Rolpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 554,
+            "name": "Lungri",
+            "district": "Rolpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 555,
+            "name": "Sukidaha",
+            "district": "Rolpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 556,
+            "name": "Sunchhahari",
+            "district": "Rolpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 557,
+            "name": "Subarnawoti",
+            "district": "Rolpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 558,
+            "name": "Thabang",
+            "district": "Rolpa",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 559,
+            "name": "Putha Uttarganga",
+            "district": "Rukum (State 5)",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 560,
+            "name": "Bhume",
+            "district": "Rukum (State 5)",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 561,
+            "name": "Sisne",
+            "district": "Rukum (State 5)",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 562,
+            "name": "Butwal",
+            "district": "Rupandehi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 563,
+            "name": "Lumbini Saskritik",
+            "district": "Rupandehi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 564,
+            "name": "Sidharthanager",
+            "district": "Rupandehi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 565,
+            "name": "Sammarimai",
+            "district": "Rupandehi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 566,
+            "name": "Debdaha",
+            "district": "Rupandehi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 567,
+            "name": "Sainamaina",
+            "district": "Rupandehi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 568,
+            "name": "Tilottma",
+            "district": "Rupandehi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 569,
+            "name": "Siyari",
+            "district": "Rupandehi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 570,
+            "name": "Gaidahawa",
+            "district": "Rupandehi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 571,
+            "name": "Kanchan",
+            "district": "Rupandehi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 572,
+            "name": "Kotahimai",
+            "district": "Rupandehi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 573,
+            "name": "Marchawari",
+            "district": "Rupandehi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 574,
+            "name": "Mayadevi",
+            "district": "Rupandehi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 575,
+            "name": "Omsatiya",
+            "district": "Rupandehi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 576,
+            "name": "Rohindi",
+            "district": "Rupandehi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 577,
+            "name": "Suddodhan",
+            "district": "Rupandehi",
+            "province": "Province 5",
+            "country": "Nepal"
+        },
+        {
+            "id": 578,
+            "name": "Narayan",
+            "district": "Dailekh",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 579,
+            "name": "Dullu",
+            "district": "Dailekh",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 580,
+            "name": "Chamunda Bindrasaini",
+            "district": "Dailekh",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 581,
+            "name": "Aathbis",
+            "district": "Dailekh",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 582,
+            "name": "Bhagawatimai",
+            "district": "Dailekh",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 583,
+            "name": "Gurash",
+            "district": "Dailekh",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 584,
+            "name": "Dungeshwar",
+            "district": "Dailekh",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 585,
+            "name": "Naumule",
+            "district": "Dailekh",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 586,
+            "name": "Mahabu",
+            "district": "Dailekh",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 587,
+            "name": "Bhairabi",
+            "district": "Dailekh",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 588,
+            "name": "Thatikadh",
+            "district": "Dailekh",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 589,
+            "name": "Thuli veri",
+            "district": "Dolpa",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 590,
+            "name": "Tripurasundari",
+            "district": "Dolpa",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 591,
+            "name": "Dolpa buddha",
+            "district": "Dolpa",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 592,
+            "name": "She phoksundo",
+            "district": "Dolpa",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 593,
+            "name": "Jagdulla",
+            "district": "Dolpa",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 594,
+            "name": "Mudkechula",
+            "district": "Dolpa",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 595,
+            "name": "Kaike",
+            "district": "Dolpa",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 596,
+            "name": "Chharka tangsong",
+            "district": "Dolpa",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 597,
+            "name": "Simkot",
+            "district": "Humla",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 598,
+            "name": "Namkha",
+            "district": "Humla",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 599,
+            "name": "kharpunath",
+            "district": "Humla",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 600,
+            "name": "Surkegad",
+            "district": "Humla",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 601,
+            "name": "Chankheli",
+            "district": "Humla",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 602,
+            "name": "Adanchuli",
+            "district": "Humla",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 603,
+            "name": "Tajakot",
+            "district": "Humla",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 604,
+            "name": "veri",
+            "district": "Jajarkot",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 605,
+            "name": "Chhedagad",
+            "district": "Jajarkot",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 606,
+            "name": "Tribeni nalgad",
+            "district": "Jajarkot",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 607,
+            "name": "Kuse",
+            "district": "Jajarkot",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 608,
+            "name": "Junichande",
+            "district": "Jajarkot",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 609,
+            "name": "Barekot",
+            "district": "Jajarkot",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 610,
+            "name": "Shibalaya",
+            "district": "Jajarkot",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 611,
+            "name": "Chandannath",
+            "district": "Jumla",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 612,
+            "name": "Kankasundari",
+            "district": "Jumla",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 613,
+            "name": "Sinja",
+            "district": "Jumla",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 614,
+            "name": "Hima",
+            "district": "Jumla",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 615,
+            "name": "Tila",
+            "district": "Jumla",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 616,
+            "name": "Guthichaur",
+            "district": "Jumla",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 617,
+            "name": "Tatopani",
+            "district": "Jumla",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 618,
+            "name": "Patarasi",
+            "district": "Jumla",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 619,
+            "name": "Khadachakra",
+            "district": "Kalikot",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 620,
+            "name": "Raskot",
+            "district": "Kalikot",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 621,
+            "name": "Tilagupha",
+            "district": "Kalikot",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 622,
+            "name": "Pachaljharana",
+            "district": "Kalikot",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 623,
+            "name": "Sanni tribeni",
+            "district": "Kalikot",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 624,
+            "name": "Naraharinath",
+            "district": "Kalikot",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 625,
+            "name": "Kalika",
+            "district": "Kalikot",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 626,
+            "name": "Mahabai",
+            "district": "Kalikot",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 627,
+            "name": "Palata",
+            "district": "Kalikot",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 628,
+            "name": "Chhayanath",
+            "district": "Mugu",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 629,
+            "name": "Mugumkarmarog",
+            "district": "Mugu",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 630,
+            "name": "Soru",
+            "district": "Mugu",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 631,
+            "name": "Khatyang",
+            "district": "Mugu",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 632,
+            "name": "Musikot",
+            "district": "Western Rukum",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 633,
+            "name": "Chaurjahari",
+            "district": "Western Rukum",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 634,
+            "name": "Aathabiskot",
+            "district": "Western Rukum",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 635,
+            "name": "Baphikot",
+            "district": "Western Rukum",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 636,
+            "name": "Tribeni",
+            "district": "Western Rukum",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 637,
+            "name": "Sanibheri",
+            "district": "Western Rukum",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 638,
+            "name": "Sarada",
+            "district": "Salyan",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 639,
+            "name": "Bagchaur",
+            "district": "Salyan",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 640,
+            "name": "Bangad",
+            "district": "Salyan",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 641,
+            "name": "Kalimati",
+            "district": "Salyan",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 642,
+            "name": "Tribeni",
+            "district": "Salyan",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 643,
+            "name": "Kapurkot",
+            "district": "Salyan",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 644,
+            "name": "Chhatreswori",
+            "district": "Salyan",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 645,
+            "name": "Dhorchaur",
+            "district": "Salyan",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 646,
+            "name": "Kumakhamalika",
+            "district": "Salyan",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 647,
+            "name": "Darma",
+            "district": "Salyan",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 648,
+            "name": "Birendra",
+            "district": "Surkhet",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 649,
+            "name": "Bheriganga",
+            "district": "Surkhet",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 650,
+            "name": "Gurbhakot",
+            "district": "Surkhet",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 651,
+            "name": "Pabchapuri",
+            "district": "Surkhet",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 652,
+            "name": "Lekbesi",
+            "district": "Surkhet",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 653,
+            "name": "Chaukune",
+            "district": "Surkhet",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 654,
+            "name": "Barahatal",
+            "district": "Surkhet",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 655,
+            "name": "Chingad",
+            "district": "Surkhet",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 656,
+            "name": "Simta",
+            "district": "Surkhet",
+            "province": "Province 6",
+            "country": "Nepal"
+        },
+        {
+            "id": 657,
+            "name": "Mangalsen",
+            "district": "Aachham",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 658,
+            "name": "Kamalbajar",
+            "district": "Aachham",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 659,
+            "name": "Sanphebagar",
+            "district": "Aachham",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 660,
+            "name": "Panchadewal Binayak",
+            "district": "Aachham",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 661,
+            "name": "Chaurpati",
+            "district": "Aachham",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 662,
+            "name": "Mellekh",
+            "district": "Aachham",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 663,
+            "name": "Bannigadi Jayagadh",
+            "district": "Aachham",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 664,
+            "name": "Ramaroshan",
+            "district": "Aachham",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 665,
+            "name": "Dhakari",
+            "district": "Aachham",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 666,
+            "name": "Turmakhad",
+            "district": "Aachham",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 667,
+            "name": "Dashrathachanda",
+            "district": "Baitadi",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 668,
+            "name": "Patan",
+            "district": "Baitadi",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 669,
+            "name": "Melauli",
+            "district": "Baitadi",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 670,
+            "name": "Purchaudi",
+            "district": "Baitadi",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 671,
+            "name": "Surnaya",
+            "district": "Baitadi",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 672,
+            "name": "Sisag",
+            "district": "Baitadi",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 673,
+            "name": "Shivanath",
+            "district": "Baitadi",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 674,
+            "name": "Pancheshwar",
+            "district": "Baitadi",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 675,
+            "name": "Dogdakedar",
+            "district": "Baitadi",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 676,
+            "name": "Dilasaini",
+            "district": "Baitadi",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 677,
+            "name": "jayaprithvi",
+            "district": "Bajhang",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 678,
+            "name": "Bungal",
+            "district": "Bajhang",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 679,
+            "name": "Talkot",
+            "district": "Bajhang",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 680,
+            "name": "Masta",
+            "district": "Bajhang",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 681,
+            "name": "Khaptadchhanna",
+            "district": "Bajhang",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 682,
+            "name": "Thalara",
+            "district": "Bajhang",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 683,
+            "name": "Bitthadchir",
+            "district": "Bajhang",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 684,
+            "name": "Surma",
+            "district": "Bajhang",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 685,
+            "name": "Chhabispathibhera",
+            "district": "Bajhang",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 686,
+            "name": "Durgathali",
+            "district": "Bajhang",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 687,
+            "name": "Kedarsyun",
+            "district": "Bajhang",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 688,
+            "name": "Kanda",
+            "district": "Bajhang",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 689,
+            "name": "Badimalika",
+            "district": "Bajura",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 690,
+            "name": "Tribeni",
+            "district": "Bajura",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 691,
+            "name": "Budhiganga",
+            "district": "Bajura",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 692,
+            "name": "Budhinanda",
+            "district": "Bajura",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 693,
+            "name": "Gaumun",
+            "district": "Bajura",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 694,
+            "name": "Pandav",
+            "district": "Bajura",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 695,
+            "name": "Swamikartik",
+            "district": "Bajura",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 696,
+            "name": "Chhededaha",
+            "district": "Bajura",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 697,
+            "name": "Himali",
+            "district": "Bajura",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 698,
+            "name": "Amargadhi",
+            "district": "Dadeldhura",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 699,
+            "name": "Parsuram",
+            "district": "Dadeldhura",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 700,
+            "name": "Aalital",
+            "district": "Dadeldhura",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 701,
+            "name": "Bhageshwar",
+            "district": "Dadeldhura",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 702,
+            "name": "nabadurga",
+            "district": "Dadeldhura",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 703,
+            "name": "Ajayameru",
+            "district": "Dadeldhura",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 704,
+            "name": "Ganyapdhura",
+            "district": "Dadeldhura",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 705,
+            "name": "Mahakali",
+            "district": "Darchula",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 706,
+            "name": "Shailyashikar",
+            "district": "Darchula",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 707,
+            "name": "Malikarjun",
+            "district": "Darchula",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 708,
+            "name": "Apihimal",
+            "district": "Darchula",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 709,
+            "name": "Duhu",
+            "district": "Darchula",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 710,
+            "name": "Naugad",
+            "district": "Darchula",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 711,
+            "name": "Marma",
+            "district": "Darchula",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 712,
+            "name": "Lekam",
+            "district": "Darchula",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 713,
+            "name": "Byash",
+            "district": "Darchula",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 714,
+            "name": "Dipayal siladhi",
+            "district": "Doti",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 715,
+            "name": "Shikhar",
+            "district": "Doti",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 716,
+            "name": "Purbichauki",
+            "district": "Doti",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 717,
+            "name": "Badikedar",
+            "district": "Doti",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 718,
+            "name": "Jorayal",
+            "district": "Doti",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 719,
+            "name": "Sayal",
+            "district": "Doti",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 720,
+            "name": "Aadarsh",
+            "district": "Doti",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 721,
+            "name": "K.I.C",
+            "district": "Doti",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 722,
+            "name": "Bogatan",
+            "district": "Doti",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 723,
+            "name": "Dhangadhi",
+            "district": "Kailali",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 724,
+            "name": "Tikapur",
+            "district": "Kailali",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 725,
+            "name": "Ghodaghodi",
+            "district": "Kailali",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 726,
+            "name": "Lamkichuha",
+            "district": "Kailali",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 727,
+            "name": "bhajani",
+            "district": "Kailali",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 728,
+            "name": "Godawari",
+            "district": "Kailali",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 729,
+            "name": "Gauriganga",
+            "district": "Kailali",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 730,
+            "name": "Janaki",
+            "district": "Kailali",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 731,
+            "name": "Bardagoriya",
+            "district": "Kailali",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 732,
+            "name": "Mohanyal",
+            "district": "Kailali",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 733,
+            "name": "Kailari",
+            "district": "Kailali",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 734,
+            "name": "Joshipur",
+            "district": "Kailali",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 735,
+            "name": "Chure",
+            "district": "Kailali",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 736,
+            "name": "bhimdatta",
+            "district": "Kanchanpur",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 737,
+            "name": "Punarbas",
+            "district": "Kanchanpur",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 738,
+            "name": "Bedkot",
+            "district": "Kanchanpur",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 739,
+            "name": "Mahakali",
+            "district": "Kanchanpur",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 740,
+            "name": "Shuklaphata",
+            "district": "Kanchanpur",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 741,
+            "name": "Belauri",
+            "district": "Kanchanpur",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 742,
+            "name": "Krishnapur",
+            "district": "Kanchanpur",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 743,
+            "name": "Beldandi",
+            "district": "Kanchanpur",
+            "province": "Province 7",
+            "country": "Nepal"
+        },
+        {
+            "id": 744,
+            "name": "Laljhadi",
+            "district": "Kanchanpur",
+            "province": "Province 7",
+            "country": "Nepal"
+        }
+    ]
